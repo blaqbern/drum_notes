@@ -38,15 +38,6 @@ ride-pattern:[ride 4 4]{1 2(>tri let) 3 4(>tri let)}
 ride-pattern:[ride quarter]{x, >tri let, x, >tri let}
 ```
 
-
-
-
-
-
-
-
-
-
 ```
 pattern syncopated-hat = {+}
 
@@ -69,3 +60,7 @@ cue>
   my-groove(4)
   my-groove(2) my-groove.alt(2)
 ```
+
+# Random Notes
+- definitely going to want some sort of tagging system
+  - The concept of a pattern (or pattern snippet) literal is going to be crucial in my imagining of how someone might use this module. It's kinda hard to think of meaningful names for something like a snippet of a drum part. That said, we will want to store these pattern snippets as part of our library of patches, so having some semblance of organization via tags will be useful.
