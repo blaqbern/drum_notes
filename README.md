@@ -3,6 +3,7 @@ Drum beat shorthand.
 
 <details>
     <summary>outdated</summary>
+    ### Usage
     ```
     // this is a comment
 
